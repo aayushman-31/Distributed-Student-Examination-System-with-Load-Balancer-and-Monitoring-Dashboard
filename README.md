@@ -1,0 +1,2 @@
+# Distributed-Student-Examination-System-with-Load-Balancer-and-Monitoring-Dashboard
+This project is a distributed web-based examination system designed to demonstrate core concepts of distributed computing, load balancing, fault tolerance, and system monitoring. The system allows students to log in through a web interface, attempt an online exam consisting of multiple-choice questions, and receive an automatically evaluated score.
